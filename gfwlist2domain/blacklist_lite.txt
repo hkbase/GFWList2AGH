@@ -2264,7 +2264,6 @@ auricularesbeatsmarkt.com
 auroraoss.com
 ausbeatsbydrdre.com
 auth0.com
-authorizeddns.net
 authorizeddns.org
 authorxml.com
 authpass.app
@@ -6074,9 +6073,7 @@ dditscdn.com
 ddns.info
 ddns.mobi
 ddns.ms
-ddns.name
 ddns.net
-ddns.us
 de-sci.org
 de1lib.org
 deadhouse.org
@@ -9530,6 +9527,7 @@ gettyimages.nl
 gettyimages.no
 gettyimages.pt
 gettyimages.se
+gettyimages.us
 getuploader.com
 getws1.com
 getwsone.com
@@ -11279,6 +11277,7 @@ hungryclit.com
 hunk.ws
 huobi.co
 huobi.com
+huobi.li
 huobi.me
 huobi.pro
 huobi.sc
@@ -25009,7 +25008,6 @@ zhoushuguang.com
 zhreader.com
 zhtv01.com
 zhuangbi.me
-zhuanxing.cn
 zhuatieba.com
 zhuichaguoji.org
 zhujiget.com
