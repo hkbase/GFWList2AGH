@@ -5223,6 +5223,7 @@ clitgames.com
 cloakpoint.com
 clojure.org
 clonoth.com
+cloud.run
 cloudapp.net
 cloudappsecurity.com
 cloudburstresearch.com
@@ -5285,6 +5286,7 @@ cloudokyo.cloud
 cloudpartnerservices.goog
 cloudproxy.app
 cloudrobotics.com
+cloudskillsboost.google
 cloudvolumes.com
 cloudyzgirl.com
 cloupia.com
@@ -5484,7 +5486,6 @@ com.fr
 com.ge
 com.gh
 com.gi
-com.google
 com.gr
 com.gt
 com.gy
@@ -9698,6 +9699,7 @@ glyphsapp.com
 gmail.com
 gmauthority.com
 gmgard.com
+gmgn.ai
 gmhz.org
 gmiddle.com
 gmiddle.net
@@ -9984,6 +9986,7 @@ googlemaps.com
 googlemaps.sv
 googlemashups.com
 googlepagecreator.com
+googlepages.com
 googlephotos.com
 googleplay.com
 googleplex.com
@@ -15934,6 +15937,7 @@ nhncorp.jp
 nianticlabs.com
 nic.cz
 nic.gov
+nic.youtube
 niceanimegames.com
 niceporn.tv
 nicesrv.de
@@ -16390,6 +16394,7 @@ nuuporn.com
 nuuvem.com
 nuvid.com
 nuzcom.com
+nuzzel.com
 nvdst.com
 nverxs.xyz
 nvidia.asia
@@ -21594,6 +21599,7 @@ tomovie.net
 tomp3.cc
 tomsguide.com
 tomshardware.com
+ton.org
 tonec.com
 tonicmovies.com
 tono-oka.jp
@@ -23259,12 +23265,14 @@ wal.co
 wallet.com
 wallet.google
 walletconnect.com
+walletconnect.org
 wallhaven.cc
 wallmama.com
 wallornot.org
 wallpapercasa.com
 wallproxy.com
 wallsttv.com
+wallzhihu.com
 walmart-content.com
 walmart.com
 walmart.pharmacy
