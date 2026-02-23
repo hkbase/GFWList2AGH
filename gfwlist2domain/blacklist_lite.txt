@@ -9805,6 +9805,7 @@ go-to-zlibrary.se
 go.com
 go.dev
 go.jp
+go.kr
 go141.com
 go2av.com
 go5.dev
@@ -13597,6 +13598,7 @@ like.com
 likeseiyu.com
 liketruyen.net
 liketwice.com
+likr.tw
 likuoo.video
 lilaoshibushinilaoshi.com
 lilhumpers.com
