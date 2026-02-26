@@ -707,6 +707,7 @@ aboutamazon.in
 aboutamazon.it
 aboutamazon.jp
 aboutamazon.pl
+aboutamazon.sg
 aboutfacebook.com
 aboutgfw.com
 aboutmcdonalds.com
@@ -1508,18 +1509,25 @@ amazon-lantern.com
 amazon-launchpad.com
 amazon.ae
 amazon.ca
+amazon.cl
 amazon.co
 amazon.com
 amazon.de
 amazon.dev
+amazon.eg
 amazon.es
 amazon.fr
+amazon.ie
 amazon.in
 amazon.it
 amazon.jobs
 amazon.jp
+amazon.lu
 amazon.nl
+amazon.pl
 amazon.red
+amazon.sa
+amazon.se
 amazon.sg
 amazonalexavoxcon.com
 amazonauthorinsights.com
@@ -2607,6 +2615,7 @@ awsstatic.com
 awsthinkbox.com
 awstrack.me
 awstrust.com
+awswaf.com
 awwcn.buzz
 awwcn.xyz
 awxcdn.com
@@ -5539,6 +5548,7 @@ com.ar
 com.az
 com.bb
 com.bd
+com.be
 com.bh
 com.bn
 com.bo
@@ -19402,6 +19412,7 @@ searx.me
 seasidestory.tokyo
 seatguru.com
 seattlefdc.com
+seattlespheres.com
 secomtrust.net
 second-ns.com
 second-ns.de
